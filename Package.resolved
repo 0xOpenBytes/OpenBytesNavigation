@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "disk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/Disk",
+      "state" : {
+        "revision" : "7804456d7e02221ac21c755c22c735fc0dd43f81",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "o",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/o",
+      "state" : {
+        "revision" : "3e83362434c82f318a8d72e0d3b0786ffb3ba640",
+        "version" : "2.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
