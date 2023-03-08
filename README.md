@@ -87,7 +87,7 @@ path.toast(
 ### Push
 
 ```swift
-.navigationDestination(for: Date.self, destination: { ClockView(date: $0) })
+.navigationDestination(for: Date.self, destination: { DateView(date: $0) })
 ...
 path.push(Date())
 ```
